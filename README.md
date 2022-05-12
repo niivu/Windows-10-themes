@@ -1,5 +1,7 @@
 # Windows-10-themes
 
+![Windows 10 themes by niivu](https://user-images.githubusercontent.com/32079142/168134840-b5b9de9f-6f41-40c7-9ff4-06977d5127ca.png)
+
 ## WINDOWS 10 THEMES by [niivu](https://www.deviantart.com/niivu)
 A collection of 	**Windows 10 Themes** to customize your desktop experience.  Including Themes, Wallpapers, Icons and more!
 Warning:  If you are new to this or unsure it's always best to create a [System Restore Point](https://www.sciencedirect.com/topics/computer-science/system-restore-point#:~:text=A%20system%20restore%20point%20is,of%20the%20System%20Properties%20window.) before continuing.
