@@ -1,0 +1,2 @@
+To use place each style into your Program Filles (x86)/StartIsBack/Styles folder.
+Then using SIB select your taskbar from the interface.
