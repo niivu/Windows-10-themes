@@ -26,4 +26,4 @@ In order to apply custom themes you'll need to extract them and copy both the .t
 While the work remains totally free I do accept doantions from those who wish to support the work involved.  Thanks!
 BUY ME A [KO-FI](https://ko-fi.com/niivu)
 
-For more information check the WIKI page.
+For more information check the [WIKI](https://github.com/niivu/Windows-10-themes/wiki) page.
