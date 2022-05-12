@@ -9,7 +9,9 @@ Warning:  If you are new to this or unsure it's always best to create a [System 
 (Refer to the FAQ on their respective pages for any issues you may run into.)
 
 [UltraUXThemePatcher](https://mhoefs.eu/software_uxtheme.php?lang=en) by Manuel Hoefs - modifies your system files so that 3. party themes can be used.  The program backups the original system files and all changes can be undone by uninstalling if you have issues.
+
 ::or::
+
 [SecureUXTheme](https://github.com/namazso/SecureUxTheme) by namazso - is a software that removes signature verification of styles from Windows.
 - No system file modifications
 - No driver needed
@@ -23,4 +25,5 @@ In order to apply custom themes you'll need to extract them and copy both the .t
 ## DONATIONS! 🙋 ❤️ 🪙
 While the work remains totally free I do accept doantions from those who wish to support the work involved.  Thanks!
 For more information check the WIKI page.
+
 BUY ME A [KO-FI](https://ko-fi.com/niivu)
