@@ -1,0 +1,26 @@
+; Copyright © Microsoft Corp.
+
+[Theme]
+; Windows 7 - IDS_THEME_DISPLAYNAME_10X - Dark
+DisplayName=10X - Dark
+SetLogonBackground=0
+
+[Control Panel\Desktop]
+Wallpaper=%SystemRoot%\Resources\Themes\10X\wallpapers\
+TileWallpaper=0
+WallpaperStyle=10
+Pattern=
+
+[VisualStyles]
+Path=%SystemRoot%\Resources\Themes\10X\10X.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+AutoColorization=1
+SystemMode=Dark
+AppMode=Dark
+
+[boot]
+SCRNSAVE.EXE=
+
+[MasterThemeSelector]
+MTSM=RJSPBS
