@@ -1,0 +1,33 @@
+; Copyright © Microsoft Corp.
+
+[Theme]
+; Windows 7 - IDS_THEME_DISPLAYNAME_sweetness dark
+DisplayName=sweetness dark
+SetLogonBackground=0
+
+[Control Panel\Desktop]
+Wallpaper=%SystemRoot%\Resources\Themes\sweetness\wallpapers\
+TileWallpaper=0
+WallpaperStyle=10
+Pattern=
+
+[VisualStyles]
+Path=%SystemRoot%\Resources\Themes\sweetness\sweetness dark.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+AutoColorization=0
+ColorizationColor=0XFFFFFFFF
+SystemMode=Light
+AppMode=Dark
+
+[boot]
+SCRNSAVE.EXE=
+
+[MasterThemeSelector]
+MTSM=RJSPBS
+
+[Slideshow]
+
+Interval=900000
+Shuffle=1
+ImagesRootPath=%SystemRoot%\Resources\Themes\sweetness\Wallpapers\
