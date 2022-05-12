@@ -1,0 +1,33 @@
+; Copyright © Microsoft Corp.
+
+[Theme]
+; Windows 7 - IDS_THEME_DISPLAYNAME_nebula
+DisplayName=nebula
+SetLogonBackground=0
+
+[Control Panel\Desktop]
+Wallpaper=%SystemRoot%\Resources\Themes\Paranoid Android\wallpapers\
+TileWallpaper=0
+WallpaperStyle=10
+Pattern=
+
+[VisualStyles]
+Path=%SystemRoot%\Resources\Themes\Paranoid Android\nebula.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+AutoColorization=0
+ColorizationColor=0XFF181B28
+SystemMode=Dark
+AppMode=Dark
+
+[boot]
+SCRNSAVE.EXE=
+
+[MasterThemeSelector]
+MTSM=RJSPBS
+
+[Slideshow]
+
+Interval=900000
+Shuffle=1
+ImagesRootPath=%SystemRoot%\Resources\Themes\Paranoid Android\Wallpapers\
